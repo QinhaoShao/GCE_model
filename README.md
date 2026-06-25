@@ -1,4 +1,4 @@
-GCE: Galactic Chemical Evolution Model for the Milky Way
+GCE: Galactic Chemical Evolution Model
 =========================================================
 
 This project contains a multi-zone Galactic Chemical Evolution (GCE) model for
